@@ -1,3 +1,4 @@
+// jason rocks
 public class Node {
 
 	private int x;
