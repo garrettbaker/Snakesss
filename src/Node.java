@@ -1,4 +1,4 @@
-// jason rocks
+// jason sucks
 public class Node {
 
 	private int x;
